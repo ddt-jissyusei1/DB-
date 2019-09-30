@@ -1,0 +1,18 @@
+解答日：2019/09/11
+
+
+問：DBMSの情報確認
+
+
+①使用しているDBMSのバージョン、およびそのDBMSの最新バージョン
+  →10.1.37-MariaDB
+
+②エディション
+  →なし
+
+③マニュアルの所在
+ →https://mariadb.com/kb/ja/documentation/
+
+
+
+
